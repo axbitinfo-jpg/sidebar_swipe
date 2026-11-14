@@ -1,0 +1,8 @@
+name: sidebar_swipe
+title: Sidebar Swipe
+version: 1.0.0
+description: Swipe from the left edge to open the sidebar on mobile, and swipe left to close it. Complements the sidebar toggle button.
+always_enabled: false
+settings_sections: []
+per_project_config: false
+per_agent_config: false

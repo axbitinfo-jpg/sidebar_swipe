@@ -1,0 +1,14 @@
+# Runtime and local state
+.toggle-0
+.toggle-1
+default_config.yaml
+config.json
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+
+# Editor/OS
+.vscode/
+.idea/
+*.swp
